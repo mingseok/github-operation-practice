@@ -1,6 +1,5 @@
 package com.example.github;
 
 public class DevelopBranch {
-    private int id;
-    private String name;
+    // develop 브랜치 수정 12.28 1차
 }

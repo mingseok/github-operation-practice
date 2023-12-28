@@ -1,5 +1,5 @@
 package com.example.github;
 
 public class DevelopTest {
-    // Develop 브랜치에서 클래스 추가.
+    // develop 브랜치 수정 12.28 2차
 }
