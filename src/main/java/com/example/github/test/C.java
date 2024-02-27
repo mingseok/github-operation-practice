@@ -6,4 +6,6 @@ public class C {
     private String name;
 
     // Branch B 테스트
+
+    // B 브랜치 추가 변경 사항
 }
