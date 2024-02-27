@@ -4,4 +4,6 @@ public class C {
 
     private int id;
     private String name;
+
+    // Branch B 테스트
 }
