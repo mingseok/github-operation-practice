@@ -1,8 +1,5 @@
 package com.example.github;
 
-public class TestA {
-  
+public class TestB {
     // test 03.22
-
-    // test 03.23
 }
