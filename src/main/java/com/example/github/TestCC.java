@@ -1,5 +1,5 @@
 package com.example.github;
 
-public class TestAA {
+public class TestCC {
     // test
 }
