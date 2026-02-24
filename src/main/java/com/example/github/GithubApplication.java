@@ -10,6 +10,8 @@ public class GithubApplication {
 		SpringApplication.run(GithubApplication.class, args);
 
 		// 깃 테스트
+
+		// a
 	}
 
 }
